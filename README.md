@@ -1,2 +1,33 @@
-# JwSystemPublic
-基于Java+Springboot+Vue的教务管理系统(源代码+数据库)1、学生： 登录、首页统计、学生选课、成绩查询、个人课表、学生评价、教学计划、培养方案、个人中心、密码修改2、教师： 成绩录入、课程评价查询、选课申请、个人信息、个人课表、成绩统计3、教务人员： 学院管理、专业管理、班级管理、教学计划管理、培养方案管理、教学评价管理、档案管理、结课申请管理、开课申请管理、选课分配管理、学生管理 4、管理员： 拥有全部功能的权限、权限管理、角色管理。用户管理 后端： - Springboot - MybatisPlus - Mysql - Maven - Shiro - SpringSecurity 前端：- Vue - Vue-router - axios - elementUi
+### 完整项目获取
+
+
+通过网盘分享的文件：校务管理系统
+
+链接: https://pan.baidu.com/s/1QSrxeM9IO5ZqULJ7qmCFrg?pwd=p2c6 提取码: p2c6 --来自百度网盘超级会员v3的分享
+
+通过网盘分享的文件：工具包
+
+链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
+--来自百度网盘超级会员v3的分享
+
+需要远程项目部署或项目修改和毕业设计也可联系（添加申请时请备注好来意）
+
+远程调试部署联系方式
+
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
+### 项目合集(项目不断更新中)
+链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
+--来自百度网盘超级会员v3的分享
+
+#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
+
+## 接毕业设计和论文
+
+微信联系方式：xzxj0206  QQ：3808981644   (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
+
